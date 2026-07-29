@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Suhail 👋
 
-<!--
-**Suhailulu/Suhailulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student | Web Developer | Data Science Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.E. CSE (3rd Year)
+- 💻 Building Lulu IMS - Enterprise Inventory Management System
+- 🌱 Learning System Design, AI and Cloud
+- 🚀 Interested in Full Stack Development & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: JavaScript, Python, SQL
+- Frontend: React, HTML, CSS, Tailwind
+- Backend: Node.js, Supabase
+- Database: PostgreSQL
+- Tools: Git, GitHub, VS Code, Vercel
+
+## Featured Projects
+- Lulu IMS
+- AI Demand Forecasting
+- Smart Bus Tracking
+- Data Science Projects
+
+## Connect
+LinkedIn
+Portfolio
+Email
