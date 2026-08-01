@@ -17,11 +17,12 @@ Computer Science Engineering Student | Web Developer | Data Science Enthusiast
 
 ## Featured Projects
 - Lulu IMS
+- Lulu Kitchen
 - AI Demand Forecasting
 - Smart Bus Tracking
 - Data Science Projects
 
 ## Connect
-LinkedIn
-Portfolio
-Email
+LinkedIn : www.linkedin.com/in/suhail-a-9a524132a
+Email : suhaibsuhail437@gmail.com
+
